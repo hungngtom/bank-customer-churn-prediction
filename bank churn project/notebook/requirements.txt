@@ -1,0 +1,20 @@
+# Core Data Handling
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+
+# Handling Imbalanced Data
+imbalanced-learn>=0.10.0
+
+# Model Interpretation
+shap>=0.41.0
+
+# To Run the Notebook
+jupyter>=1.0.0
