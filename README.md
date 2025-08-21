@@ -53,5 +53,5 @@ The top 5 most important features for predicting churn were:
 ## 🚀 Installation & Usage
 1. **Clone the repository:**
    ```bash
-git clone https://github.com/hungngtom/bank-customer-churn-prediction.git
-cd bank-customer-churn-prediction
+   git clone https://github.com/hungngtom/bank-customer-churn-prediction.git
+   cd bank-customer-churn-prediction
